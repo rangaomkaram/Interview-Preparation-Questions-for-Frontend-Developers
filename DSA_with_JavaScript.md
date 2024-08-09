@@ -19,9 +19,10 @@
         function getFirstElement(arr){
             return arr[0]
         }
-        
+
         ```
       - No matter how many items you have, it always takes the same amount of time.
       - Looking at the first item in a list.If you have a list of 10 items or 1000 items,you can instantly look at first one.
 
       2. Linear Time - O(n):
+           The time it takes to run algorithm increas
