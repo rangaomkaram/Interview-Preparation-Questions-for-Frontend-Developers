@@ -40,3 +40,10 @@
   - Javascript is Behaviour (Actions)
 
   Noun(HTML) + Adjective(CSS) + Verb (javascript)
+
+  JavaScript  Releases 
+
+  - ECMA Script 
+
+  - ES5 to ES6 
+  - At Present Es15 is released at 2024.
