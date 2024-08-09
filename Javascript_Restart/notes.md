@@ -24,10 +24,19 @@
 - Building web applications using Angular, Vue, ReactJS.
 - Developement of Moblie Applications - Using ReactNative frameworks - which can give both Andriod and IOS applications for moblies.
 
-Features of  JavaScript : 
+## Features of  JavaScript : 
 
 - JavaScript is Object-Oriented, Multi-paradigm, High-Level Programming Language.
 
 1. Object-Oriented : Based on Objects for storing most kind of data.
 2. Multi-Paradigm : We can use different styles of programming -> Imperative and Declarative style of programming.
-3. High-Level : Javascript is high-level programming, we don't need to worry about complex stuff like  memory mangement. 
+3. High-Level : Javascript is high-level programming, we don't need to worry about complex stuff like  memory mangement.
+9
+## Role of javascript in Web Development: 
+
+- There are Core three things to complete a webiste HTML , CSS and Javascript 
+  - Html is skeleton (Content)
+  - Css is Presentation
+  - Javascript is Behaviour (Actions)
+
+  Noun(HTML) + Adjective(CSS) + Verb (javascript)
