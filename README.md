@@ -4,7 +4,4 @@
   ### JAVASCRIPT
   ### DSA WITH JAVASCRIPT
   ### REACTJS
-
-### JAVASCRIPT :
-
-[JAVASCRIPT](./Javascript_Restart/notes.md)
+  ### [JAVASCRIPT](./Javascript_Restart/notes.md)
