@@ -71,13 +71,13 @@
 
   - At Present Es15 is released at 2024.
 
-  ## Linking a Javascript file:
+## Linking a Javascript file:
 
   - connecting the Internal Javascript.
 
   - Connecting the External Javascript
 
-  ## When to use internal Javascript and External Javascript ?
+## When to use internal Javascript and External Javascript ?
 
   1. We use internal Javascript for small,sinlge page applications.
 
@@ -88,7 +88,7 @@
 
 ## Pros and Cons of Internal Javascript: 
 
-  ### Pros:
+ ### Pros:
 
   - No need to worry about file loading and caching.
 
@@ -114,34 +114,34 @@
 
 ## Pros and Cons of External javascript :
 
-### Pros :
+ ### Pros :
 
-- keeps the HTML document clean and organized
-.
-- Allows for code reuse and modularity.
+  - keeps the HTML document clean and organized
+  .
+  - Allows for code reuse and modularity.
 
-- Easier to maintain and update.
+  - Easier to maintain and update.
 
 ### Cons:
 
-- Requires an additional HTTP request to load the script.
+  - Requires an additional HTTP request to load the script.
 
-- Can lead to slower page load times if not properly optimized.
+  - Can lead to slower page load times if not properly optimized.
 
 ## Value and Variables in Javascript : 
 
 
-- Value is the Representation of information i.e, storing different type of data like numbers,boolean(true/false), string or characters.
+  - Value is the Representation of information i.e, storing different type of data like numbers,boolean(true/false), string or characters.
 
-- calculations, decision making and content visulization.
+  - calculations, decision making and content visulization.
 
-- Variables is the container for the values,they hold values to access and manipulate.
+  - Variables is the container for the values,they hold values to access and manipulate.
 
-- Variables are declared using var,let,const keywords.
+  - Variables are declared using var,let,const keywords.
 
-- Variable is name given to memorylocation which acts as storing data 
+  - Variable is name given to memorylocation which acts as storing data 
 
-- Variables are used to store values and perform operations on them.
+  - Variables are used to store values and perform operations on them.
 
 ```javascript
 
@@ -152,8 +152,7 @@ let martialStatus = "single"
 let isEmployed = true
 
 ```
-
-- We can print the values using the in-builit function console.log() in javascript.
+## We can print the values using the in-builit function console.log() in javascript.
 
 ```javascript
 
