@@ -202,8 +202,11 @@ let companyName = "Meta"
  let name_2 = "Meta"
 
 ```
+
 1. From above example as naming convenstion is correct , but there is no meaningful.
 
 2. So code should be more readable and meaningful.Better use descriptive variables.
 
-3.
+3. Don't  start variables with number like 1month instead use one_month 
+
+4. Use letters, _ ,& 
