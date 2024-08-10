@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>External javascript linking</title>
+</head>
+<!-- Styling is done internally -->
+<style>
+div{
+    background: linear-gradient(to top left, #55aba5, #655aba);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: #55aba5;
+    padding: 10px;
+}
+</style>
+<script src="external.js"></script>
+<body>
+    <div>
+        <h1>Linking the javascript file externally.</h1>
+        <button onclick="viewAlert()">External Click</button>
+    </div>
+</body>
+</html>
