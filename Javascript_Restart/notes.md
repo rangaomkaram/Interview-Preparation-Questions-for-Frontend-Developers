@@ -50,4 +50,40 @@
 
   ## Linking a Javascript file:
 
-  - 
+  - connecting the Internal Javascript.
+  - Connecting the External Javascript
+
+  ## When to use internal Javascript and External Javascript ?
+
+  1. We use internal Javascript for small,sinlge page applications.
+  2. External Javascript used for larger scripts or functionality that needs to be shared across multiple pages.
+  3. External Javascript files organized and modular to promote code reuse and maintainability.
+
+
+  ## Pros and Cons of Internal Javascript : 
+
+  ### Pros:
+  - No need to worry about file loading and caching.
+  - Can be easily modified and updated.
+  - Reduce the number of HTTP requests.
+  - Faster page load times.
+
+ ### Cons :
+
+  - Code is tightly coupled with the HTML file.
+  - Difficult to maintain and update.
+  - Not suitable for large applications.
+  - Not reusable.
+  - lead to code duplication.
+  - can make the HTML document cluttered and harder to read.
+
+## Pros and Cons of External javascript :
+
+### Pros :
+- keeps the HTML document clean and organized.
+- Allows for code reuse and modularity.
+- Easier to maintain and update.
+
+### Cons:
+- Requires an additional HTTP request to load the script.
+- Can lead to slower page load times if not properly optimized.
