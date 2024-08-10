@@ -87,3 +87,34 @@
 ### Cons:
 - Requires an additional HTTP request to load the script.
 - Can lead to slower page load times if not properly optimized.
+
+## Value and Variables in Javascript : 
+
+- Value is the Representation of information i.e, storing different type of data like numbers,boolean(true/false), string or characters 
+- calculations, decision making and content visulization.
+
+- Variables is the container for the values,they hold values to access and manipulate
+- Variables are declared using var,let,const keywords.
+- Variable is name given to memorylocation which acts as storing data 
+- Variables are used to store values and perform operations on them.
+
+```javascript
+
+let name = "Ranga"
+let age = 31
+let martialStatus = "single"
+
+let isEmployed = true
+
+```
+
+We can print the values using the in-builit function console.log() in javascript.
+
+```javascript
+
+console.log(name);
+console.log(age);
+console.log(isEmployed);
+console.log(martialStatus);
+
+```
