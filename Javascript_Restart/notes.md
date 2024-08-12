@@ -232,5 +232,5 @@ let companyName = "Meta"
 7. BigInt(ES2020) : Large integer than Number type can hold.
 
 - let's see the examples in Javascript:
-  [Click_here](../HTML_CSS_JS/primitve.js).
+  [ClickHere](../HTML_CSS_JS/primitve.js).
 
