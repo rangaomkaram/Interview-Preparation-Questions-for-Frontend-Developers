@@ -210,3 +210,27 @@ let companyName = "Meta"
 3. Don't  start variables with number like 1month instead use one_month 
 
 4. Use letters, _ ,& 
+
+## Data Types in Javascript:
+
+ - Primitive 
+ - Non Primitive (Object)
+
+### Primitive Data Types: 
+1. Number : Floating point numbers used for  decimals and integers .
+
+2. String : sequence of characters, Used for text.
+
+3. Boolean : Logical type that can be only true or false.
+
+4. Undefined: Value taken by variable that is not yet defined ("empty value")
+
+5. Symbol(ES 2015): value that is unique and cannot change.
+
+6. Null : Empty Value
+
+7. BigInt(ES2020) : Large integer than Number type can hold.
+
+- let's see the examples in Javascript:
+  [Click_here](../HTML_CSS_JS/primitve.js).
+
