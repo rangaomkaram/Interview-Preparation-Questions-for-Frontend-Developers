@@ -251,3 +251,15 @@ let companyName = "Meta"
 
 - [clickhere](../HTML_CSS_JS/objectorNonPrimitive.js) to see examples.
 
+### Concept of Variable declaration using three keyWords:
+ - let
+ - var
+ - const
+
+1. let is a keyword in javascript,which can be used to change the values later in programming.
+
+2. const is a keyword in javascript, which is strict to declare variable.It won't allow to change the value.
+
+3. var is old keyword in javascript, which can be used to change the values. Before let , var is used.
+
+4. Please give let more preferable when to change the value<b>(later we see the concept of scope variable, there you can see the difference between let and var (when to use))</b>, while programming.If value should not change, then use const to declare the variable.
