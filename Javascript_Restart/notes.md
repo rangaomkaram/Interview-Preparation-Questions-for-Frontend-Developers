@@ -234,3 +234,20 @@ let companyName = "Meta"
 - let's see the examples in Javascript:
   [ClickHere](../HTML_CSS_JS/primitve.js).
 
+### Non - primitive or Object Data Type:
+
+- The object data type or non-primitive contains built-in objects, user defined objects.
+
+ - What are built-in objects:
+   1. Objects
+   2. Arrays
+   3. dates
+   4. maps
+   5. sets
+   6. intarrays
+   7. floatarrays
+   8. booleanarrays
+   9. promises.  (list goes on...  e.t.c..)
+
+- [clickhere](../HTML_CSS_JS/objectorNonPrimitive.js) to see examples.
+
