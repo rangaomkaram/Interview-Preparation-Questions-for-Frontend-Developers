@@ -63,6 +63,6 @@ console.log(typeof empty) //null
 console.log(typeof(getEmpty)) // undefined
 
 
-/* Here, we have seen primitive or object data types. */
+/* Here, we have seen primitive data types. */
 
 
