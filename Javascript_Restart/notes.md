@@ -263,3 +263,5 @@ let companyName = "Meta"
 3. var is old keyword in javascript, which can be used to change the values. Before let , var is used.
 
 4. Please give let more preferable when to change the value<b>(later we see the concept of scope variable, there you can see the difference between let and var (when to use))</b>, while programming.If value should not change, then use const to declare the variable.
+
+- [clickhere](../HTML_CSS_JS/let_var_const.js) to see examples:
