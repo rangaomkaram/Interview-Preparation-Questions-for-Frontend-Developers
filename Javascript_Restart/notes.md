@@ -279,4 +279,4 @@ let companyName = "Meta"
 7. String Operators - String operators are used to concatenate strings. (+=)
 8. Conditional Operators(Ternary Operators) - Conditional operators are used to perform conditional operations.
 
-- [clickhere](../HTML_CSS_JS/operators.js) to see all operator examples:
+- [clickhere](../HTML_CSS_JS/operator.js) to see all operator examples:
