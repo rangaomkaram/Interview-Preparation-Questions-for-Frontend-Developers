@@ -265,3 +265,18 @@ let companyName = "Meta"
 4. Please give let more preferable when to change the value<b>(later we see the concept of scope variable, there you can see the difference between let and var (when to use))</b>, while programming.If value should not change, then use const to declare the variable.
 
 - [clickhere](../HTML_CSS_JS/let_var_const.js) to see examples:
+
+## JavaScript Operators
+
+- we have Opeartors +,-, <,>,<=,>=, *, / , %, != (not equal or nagation), || , && ,**
+
+1. Arthematic Operators - which used for mathematical calcualtions.(+,-,/,%,*)
+2. Assignment Operators - which is used to assign values to variables (=,-=,+=,,*=,/=,)
+3. Comparision Operators - which is used compare the variables between them.
+4. logical Operators - Logical operators are used to combine or modify boolean values.
+5. Bitwise Operators -Bitwise operators are used to perform bitwise operations on integers.
+6. Typewise Operators - Type operators are used to check the type of a variable.
+7. String Operators - String operators are used to concatenate strings. (+=)
+8. Conditional Operators(Ternary Operators) - Conditional operators are used to perform conditional operations.
+
+- [clickhere](../HTML_CSS_JS/operators.js) to see all operator examples:
