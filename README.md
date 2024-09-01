@@ -1,4 +1,5 @@
 # This Repo is prepared by author: @rangaomkaram
+- In this repo, I'll discuss frontend development and cover topics below (which is a continued process, I'll add more and more files, text .....)
 ## HERE YOU CAN SEE MY INTERVIEW PREPARATION TOPIC WISE
   ### HTML
   ### CSS
